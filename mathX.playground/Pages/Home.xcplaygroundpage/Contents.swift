@@ -17,7 +17,7 @@ Click on the next button below
 I hope this app will help you improve the speed of your numerical addition, and you will like it.
 Thank you
  
-WWDC Swift Student Challenge Project by [Neeraj Rajeev Shetkar](https://www.linkedin.com/in/ineerajrajeev)
+Project by [Neeraj Rajeev Shetkar](https://www.linkedin.com/in/ineerajrajeev)
  
 */
 //: [Next](@next)
